@@ -1,0 +1,2 @@
+# Synestia
+Synestia Minecraft Server
